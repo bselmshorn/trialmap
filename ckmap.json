@@ -102,54 +102,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":25,
          "firstgid":321,
-         "image":"..\/..\/..\/Downloads\/bw_taragonia_mix___special_trees_by_phyromatical_d7ifyhm.png",
-         "imageheight":800,
-         "imagewidth":800,
-         "margin":0,
-         "name":"special_trees_by_phyromatical_d7ifyhm",
-         "spacing":0,
-         "tilecount":625,
-         "tileheight":32,
-         "tiles":[
-                {
-                 "id":54,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":55,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":79,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":80,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
-         "tilewidth":32
+         "source":"special_trees_by_phyromatical_d7ifyhm.tsx"
         }],
  "tilewidth":32,
  "type":"map",
